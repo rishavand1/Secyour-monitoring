@@ -1,0 +1,15 @@
+# pip install -r requirements.txt
+# Used these modules 
+
+Pillow
+browserhistory
+cryptography
+keyboard
+opencv_python
+pynput
+pywin32
+requests
+scipy
+sounddevice
+pathlib
+jsonschema
